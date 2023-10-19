@@ -26,3 +26,6 @@ Testing documentation
 [![Facebook](https://img.shields.io/badge/-Facebook-181717?style=for-the-badge&logo=facebook&logoColor=#6A9E98)](https://www.facebook.com/marina.spet)
 [![Instagram](https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram&logoColor=#6A9E98)](https://www.instagram.com/maryna_shpet/)
 [![telegram](https://img.shields.io/badge/-telegtram-181717?style=for-the-badge&logo=telegram&logoColor=#6A9E98)](https://t.me/Mevart)
+
+![Maryna's GitHub stats](https://github-readme-stats.vercel.app/api?username=marynavs&theme=dark&show_icons=true)
+
