@@ -2,11 +2,11 @@
 
 ## Ik ben een kunstenaar, graphische vormgever en beginner Software Tester.
 ## Mijn CV
-[Link naar mijn CV](https://drive.google.com/file/d/17WhxyVNGdDLj-r1sn9ubV0zKfdFPaP9d/view?usp=share_link)
+[CV](https://drive.google.com/file/d/17WhxyVNGdDLj-r1sn9ubV0zKfdFPaP9d/view?usp=share_link)
 
-[Link naar mijn design](https://maryna-shpet.webnode.nl/)
+[Design portfolio](https://maryna-shpet.webnode.nl/)
 
-Testing Documentation
+## Testdocumenten
 
 [Test-cases](https://docs.google.com/spreadsheets/d/1CQ2Q0spZT5_BTmr-NoANvJlf2rnNM4PXBEdXcftoSFc/edit?usp=sharing)
 
@@ -15,7 +15,7 @@ Testing Documentation
 [Bag-reports](https://docs.google.com/spreadsheets/d/1YoXoIqeJ1p03p6ccJ7cQi-6ffU4OUqwX9G_Og8KsuUU/edit?usp=sharing)
 
 
-Languages and Tools
+## Languages and Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-181717?style=for-the-badge&logo=postman&logoColor=FF4F00)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=#009DB1)
@@ -24,7 +24,6 @@ Languages and Tools
 ![CSS](https://img.shields.io/badge/-css-181717?style=for-the-badge&logo=css&logoColor=#6A9E98)
 ![AdobeDreamweaver](https://img.shields.io/badge/-AdobeDreamweaver-181717?style=for-the-badge&logo=adobedreamweaver&logoColor=#6A9E98)
 
-Testing documentation
 
 ## Follow Me
 
