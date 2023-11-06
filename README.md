@@ -6,8 +6,14 @@
 
 [Link naar mijn design](https://maryna-shpet.webnode.nl/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+Testing Documentation
+
+[Test-cases](https://docs.google.com/spreadsheets/d/1CQ2Q0spZT5_BTmr-NoANvJlf2rnNM4PXBEdXcftoSFc/edit?usp=sharing)
+
+[Checklists](https://docs.google.com/spreadsheets/d/1YLPIgF5IfCkuTBp6o59oT2meNKIsdSkamcSW-IkN_-s/edit?usp=sharing)
+
+[Bag-reports](https://docs.google.com/spreadsheets/d/1YoXoIqeJ1p03p6ccJ7cQi-6ffU4OUqwX9G_Og8KsuUU/edit?usp=sharing)
+
 
 Languages and Tools
 
@@ -27,5 +33,5 @@ Testing documentation
 [![Instagram](https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram&logoColor=#6A9E98)](https://www.instagram.com/maryna_shpet/)
 [![telegram](https://img.shields.io/badge/-telegtram-181717?style=for-the-badge&logo=telegram&logoColor=#6A9E98)](https://t.me/Mevart)
 
-![Maryna's GitHub stats](https://github-readme-stats.vercel.app/api?username=marynavs&theme=dark&show_icons=true)
+[![Maryna's GitHub stats](https://github-readme-stats.vercel.app/api?username=marynavs&theme=gotham&show_icons=true)](https://github.com/marynavs/github-readme-stats)
 
