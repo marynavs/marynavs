@@ -2,7 +2,7 @@
 
 ## Ik ben een kunstenaar, graphische vormgever en beginner Software Tester.
 ## Mijn CV
-[CV](https://drive.google.com/file/d/1VQK1Bmyu9ZZPT1rJJKQzGqcQ44wc-Zcy/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1JXAZeYkbhyZMNJdahQnE4_tyTbISeUAQ/view?usp=sharing)
 
 [Design portfolio](https://maryna-shpet.webnode.nl/)
 
