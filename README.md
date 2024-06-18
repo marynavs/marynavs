@@ -22,7 +22,13 @@
 ![SQL](https://img.shields.io/badge/-SQL-181717?style=for-the-badge&logo=sql&logoColor=#6A9E98)
 ![HTML](https://img.shields.io/badge/-html-181717?style=for-the-badge&logo=html&logoColor=#6A9E98)
 ![CSS](https://img.shields.io/badge/-css-181717?style=for-the-badge&logo=css&logoColor=#6A9E98)
+![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java&logoColor=#6A9E98)
+![Python](https://img.shields.io/badge/-python-181717?style=for-the-badge&logo=python&logoColor=#6A9E98)
 ![AdobeDreamweaver](https://img.shields.io/badge/-AdobeDreamweaver-181717?style=for-the-badge&logo=adobedreamweaver&logoColor=#6A9E98)
+![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-181717?style=for-the-badge&logo=adobephotoshop&logoColor=#6A9E98)
+![AdobeIllustrator](https://img.shields.io/badge/-AdobeIllustrator-181717?style=for-the-badge&logo=adobeillustrator&logoColor=#6A9E98)
+
+
 
 
 ## Follow Me
